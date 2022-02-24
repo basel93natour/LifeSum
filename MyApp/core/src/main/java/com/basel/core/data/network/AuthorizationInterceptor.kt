@@ -1,8 +1,8 @@
-package com.basel.core.common.data.network
+package com.basel.core.data.network
 
-import com.basel.core.common.data.constants.CoreConstant.APPLICATION_JSON
-import com.basel.core.common.data.constants.CoreConstant.AUTHORIZATION_HEADER
-import com.basel.core.common.data.constants.CoreConstant.CONTENT_TYPE
+import com.basel.core.data.constants.CoreConstant.APPLICATION_JSON
+import com.basel.core.data.constants.CoreConstant.AUTHORIZATION_HEADER
+import com.basel.core.data.constants.CoreConstant.CONTENT_TYPE
 import okhttp3.Interceptor
 import okhttp3.Response
 

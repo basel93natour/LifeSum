@@ -1,8 +1,8 @@
 package com.basel.core.common.config
 
 
-import com.basel.core.common.data.constants.CoreConstant
-import com.basel.core.common.data.network.AuthorizationInterceptor
+import com.basel.core.data.constants.CoreConstant
+import com.basel.core.data.network.AuthorizationInterceptor
 import com.jakewharton.retrofit2.adapter.kotlin.coroutines.CoroutineCallAdapterFactory
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor

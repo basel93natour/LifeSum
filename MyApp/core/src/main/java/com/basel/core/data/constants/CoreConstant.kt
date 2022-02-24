@@ -1,4 +1,4 @@
-package com.basel.core.common.data.constants
+package com.basel.core.data.constants
 
 object CoreConstant {
     const val CONNECTION_TIMEOUT = 60000L
